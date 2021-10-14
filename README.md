@@ -1,4 +1,4 @@
-# Horizon extended
+# Horizon extended blue theme
 My vision of a wonderful [Horizon Extended theme by Lance Wilhelm](https://marketplace.visualstudio.com/items?itemName=LanceWilhelm.horizon-extended)
 
 ![darktheme screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended/main/darktheme.png)
