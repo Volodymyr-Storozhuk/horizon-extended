@@ -12,6 +12,10 @@
 		"name": "Volodymyr Storozhuk",
 		"email": "volodymyr.storozhuk@hotmail.com"
 	},
+	"repository": {
+		"url": "https://github.com/Volodymyr-Storozhuk/horizon-extended",
+		"type": "git"
+	},
 	"categories": [
 		"Themes"
 	],
