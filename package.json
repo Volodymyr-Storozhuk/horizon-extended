@@ -1,0 +1,27 @@
+{
+	"name": "volos-horizon-extended",
+	"displayName": "Horizon Extended Blue Theme",
+	"description": "A dark theme based on the Horizon theme with blue elements.",
+	"version": "0.1.2",
+	"publisher": "Volodymyr Storozhuk",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"icon": "logo.png",
+	"author": {
+		"name": "Volodymyr Storozhuk",
+		"email": "volodymyr.storozhuk@hotmail.com"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Horizon Extended blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Horizon Extended-blue-color-theme.json"
+			}
+		]
+	}
+}
