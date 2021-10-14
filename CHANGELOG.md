@@ -12,11 +12,11 @@ All changes I added to my theme "Horizon extended Blue theme" well be note in th
 
 ## [0.1.3]
 
-- Updated Open a remote elements.
+- Updated "Open a Remote Window" elements.
 
 ## [0.1.2]
 
-- Fixed Status Bar Open Folder foregraund & background.
+- Fixed "Status Bar Open Folder" foregraund & background.
   
 ## [0.1.1]
 
