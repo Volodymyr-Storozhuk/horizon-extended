@@ -2,6 +2,10 @@
 
 All changes I added to my theme "Horizon extended Blue theme" well be note in this file.
 
+## [0.1.5]
+
+- Fixed extention button hover background. Fixed engines vscode version for add theme to Azure Data Studio.
+
 ## [0.1.4]
 
 - Update readme.md & shots.
