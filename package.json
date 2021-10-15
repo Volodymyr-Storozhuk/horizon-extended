@@ -13,7 +13,7 @@
 		"email": "volodymyr.storozhuk@hotmail.com"
 	},
 	"repository": {
-		"url": "https://github.com/Volodymyr-Storozhuk/horizon-extended",
+		"url": "https://github.com/Volodymyr-Storozhuk/horizon-extended-blue",
 		"type": "git"
 	},
 	"categories": [
@@ -29,7 +29,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Horizon Extended blue",
+				"label": "Horizon Extended Blue",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Horizon Extended-blue-color-theme.json"
 			}
