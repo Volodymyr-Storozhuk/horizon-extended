@@ -1,5 +1,12 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/logo.png" width="140" />
+
 # Horizon Extended Blue Theme
 My vision of a wonderful [Horizon Extended theme by Lance Wilhelm](https://marketplace.visualstudio.com/items?itemName=LanceWilhelm.horizon-extended)
+
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/VolodymyrStorozhuk.horizon-extended-blue)
+
 
 ![darktheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_start.png)
 ![darktheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_py.png)
