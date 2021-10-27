@@ -7,6 +7,7 @@ My vision of a wonderful [Horizon Extended theme by Lance Wilhelm](https://marke
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/VolodymyrStorozhuk.horizon-extended-blue)
 
+<div align="left">
 
 ![darktheme start screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_start.png)
 ![darktheme py screenshot](https://raw.githubusercontent.com/Volodymyr-Storozhuk/horizon-extended-blue/main/darktheme_py.png)
