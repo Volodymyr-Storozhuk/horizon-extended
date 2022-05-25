@@ -2,6 +2,10 @@
 
 All changes I added to my theme "Horizon extended Blue theme" well be note in this file.
 
+## [0.1.9]
+
+- Update package structure.
+
 ## [0.1.8]
 
 - Some fixes for a light theme.
