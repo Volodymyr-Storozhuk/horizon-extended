@@ -2,6 +2,10 @@
 
 All changes I added to my theme "Horizon extended Blue theme" well be note in this file.
 
+## [0.1.7]
+
+- Add ligth theme.
+
 ## [0.1.6]
 
 - Fixed statusBarItem.hoverBackground.

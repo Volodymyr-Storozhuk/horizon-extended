@@ -1,11 +1,11 @@
 {
 	"name": "horizon-extended-blue",
 	"displayName": "Horizon Extended Blue Theme",
-	"description": "A dark theme based on the Horizon Extended theme with blue interface elements.",
-	"version": "0.1.6",
+	"description": "A dark & light theme based on the Horizon Extended theme with blue interface elements.",
+	"version": "0.1.7",
 	"publisher": "VolodymyrStorozhuk",
 	"engines": {
-		"vscode": "^1.56.0"
+		"vscode": "^1.60.0"
 	},
 	"icon": "logo.png",
 	"author": {
@@ -22,12 +22,18 @@
 	"keywords": [
 		"theme",
 		"dark",
+		"light",
 		"horizon",
 		"extended",
 		"blue"
 	],
 	"contributes": {
 		"themes": [
+			{
+				"label": "Horizon Extended Light Blue",
+				"uiTheme": "vs",
+				"path": "./themes/Horizon Extended-blue-Light-color-theme.json"
+			},
 			{
 				"label": "Horizon Extended Blue",
 				"uiTheme": "vs-dark",
