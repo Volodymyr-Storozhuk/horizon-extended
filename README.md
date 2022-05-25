@@ -17,6 +17,16 @@ My vision of a wonderful [Horizon Extended theme by Lance Wilhelm](https://marke
 
 I love the dark and light Horizon theme but love the blue interface elements. This is my vision of this wonderful theme with blue elements but with the semantic of the Horizon theme. 
 
+## Installation
+
+The current release is available to [download as a .vsix file](https://github.com/Volodymyr-Storozhuk/horizon-extended-blue/releases) and can be installed by opening the command palette and selecting `Extensions: Install from VSIX...`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Volodymyr-Storozhuk/horizon-extended-blue/blob/main/LICENSE.md) file for details
+
+## Changelog
+
 Update [CHANGELOG.md](https://github.com/Volodymyr-Storozhuk/horizon-extended-blue/blob/main/CHANGELOG.md) + commit the changes.
 
 Enjoy!
