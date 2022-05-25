@@ -23,7 +23,7 @@ The current release is available to [download as a .vsix file](https://github.co
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Volodymyr-Storozhuk/horizon-extended-blue/blob/main/LICENSE.md) file for details
 
 ## Changelog
 
